@@ -11,7 +11,7 @@
 
 - 👨‍💻 My portfolio website https://subhajitdey2.github.io
 
-- 💬 Ask me about **Python, HTML, CSS, SQL**
+- 💬 Ask me about **SQL, Excel, Power BI**
 
 - 📫 How to reach me **deysubhajit954@gmail.com**
 
