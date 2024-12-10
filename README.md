@@ -1,7 +1,7 @@
 
 <img  alt="Subhajit Dey" width="100%" src="./profile.gif">
 <h1 align="center">Hi 👋, I'm SUBHAJIT DEY</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vsmidhun21&label=Profile%20views&color=0e75b6&style=flat" alt="vsmidhun21" /> </p>
 <img align="right" width="400" src="./coding.gif">
 
